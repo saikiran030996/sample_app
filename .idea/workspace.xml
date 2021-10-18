@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7257e8c4-b359-49bc-8dbc-0dbf7a920066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dvc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion_normalized.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/linear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/scatter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/smooth.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvcignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
